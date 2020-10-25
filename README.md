@@ -23,3 +23,4 @@ in the folder `ml`:
 
 ## Contribution
 Jack Liu: Mouse monitor.py
+Bowei Lee: data connection & generation
