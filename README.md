@@ -6,7 +6,7 @@
 This is our solution for ethical gaming world. We use machine learning model to
 detect whether the user is using hack method for playing, boosting or substituting.
 
-This model is from [`this outstanding paper`](https://arxiv.org/pdf/1810.04668.pdf), and its [`github`](https://github.com/margitantal68/mouse_dynamics_balabit_chaoshen_dfl)
+This model idea is from [`Intrusion Detection Using Mouse Dynamics`](https://arxiv.org/pdf/1810.04668.pdf), and we modifiy a bit things of its [`github`](https://github.com/margitantal68/mouse_dynamics_balabit_chaoshen_dfl)
 
 ## How to record data
 1. Run :  `python3 monitor_with_data_process.py`
