@@ -22,4 +22,4 @@ in the folder `ml`:
 2. for using model : `python3 test.py <log_file>`
 
 ## Contribution
-Jack Liu: Mouse monitor
+Jack Liu: Mouse monitor.py
