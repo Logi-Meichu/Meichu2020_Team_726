@@ -17,6 +17,6 @@ This model idea is from [`Intrusion Detection Using Mouse Dynamics`](https://arx
 
 
 ## How to start
-in the folder ml, \\
-for training model : `python3 main.py`
-for using model : `python3 test.py <log_file>`
+in the folder ml:
+1. for training model : `python3 main.py`
+2. for using model : `python3 test.py <log_file>`
