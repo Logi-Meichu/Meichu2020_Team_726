@@ -20,3 +20,6 @@ This model idea is from [`Intrusion Detection Using Mouse Dynamics`](https://arx
 in the folder `ml`:
 1. for training model (Need to change training file path in the code !!) : `python3 main.py`
 2. for using model : `python3 test.py <log_file>`
+
+## Contribution
+Jack Liu: Mouse monitor
